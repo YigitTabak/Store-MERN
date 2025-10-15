@@ -2,8 +2,8 @@
 
 A full-stack web application for managing product listings, built with the MERN stack (MongoDB, Express.js, React, Node.js). This application demonstrates core CRUD operations and RESTful API implementation.
 
-![Homepage]()
-![Create Product]()
+![Homepage](https://github.com/YigitTabak/Store-MERN/blob/master/screenShot.jpg?raw=true)
+![Create Product](https://github.com/YigitTabak/Store-MERN/blob/master/screenShot2.jpg?raw=true)
 
 ## Features
 
