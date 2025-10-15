@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbarcontainer{
+    width: 50%; 
+    margin: 0 auto;
+    background-color: #74bdcb;
+    display: flex;
+    height: 64px;
+    justify-content:space-around;
+    border-radius: 50px;
+    margin-top: 10px;
+}
+.baslik{
+    font-weight: bold;
+    
+}
+
+a{
+    text-decoration: none;
+  }
+
